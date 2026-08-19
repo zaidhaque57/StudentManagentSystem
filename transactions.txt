@@ -1,0 +1,4 @@
+--- ATM TRANSACTION LOG INITIALIZED ---
+[2026-07-29 06:14:35] DEPOSIT - Amount: $10000.00 | Remaining Balance: ₹11000.00
+[2026-07-29 06:14:43] ERROR - Failed withdrawal attempt: Insufficient balance (₹12000.0 requested, ₹11000.0 available)
+[2026-07-29 06:14:45] BALANCE CHECK - Current Balance: ₹11000.00
